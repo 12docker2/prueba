@@ -1,1 +1,0 @@
-exec(decoded_shellcode.decode('utf-8'))
